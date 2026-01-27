@@ -48,8 +48,8 @@ https://github.com/user-attachments/assets/fc19f5d6-7b5f-4a8f-851a-ef02ef6d6a87
 
 
 
-# if you need a updater here
-made by me
+# if you need a installer/updater here
+i made this But not the cheat
 
 ## Raven Client Installer
 
@@ -57,6 +57,7 @@ any erros please tell me at the discord  https://discord.gg/ravenclient
 
 my user is BlueMan
 
-<img width="568" height="433" alt="image" src="https://github.com/user-attachments/assets/aa32cc7e-94ee-4e5b-861a-0e14b4d88746" />
+<img width="578" height="415" alt="image" src="https://github.com/user-attachments/assets/cde406e9-004c-4cca-8377-b8aca3fc6b87" />
+
 
 
