@@ -1,0 +1,3 @@
+to build do command "pyinstaller --onefile --noconsole --icon=logo.ico RavenInstaller.py"
+
+Source code of the exe
